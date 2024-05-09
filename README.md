@@ -1,7 +1,7 @@
 # Task-Management
 Welcome to the Task Management System repository! This project is dedicated to providing a seamless user experience for managing tasks efficiently. With this application, you can effortlessly add, update, and delete tasks, ensuring you stay organized and focused on your daily, weekly, and monthly goals.
 
-## 🚀 Application Description
+## 🚀 Features
 The Task Management System offers the following features:
 
 📋 Landing Page: Displaying a list of tasks for quick overview.
