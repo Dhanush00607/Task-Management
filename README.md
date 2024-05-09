@@ -4,7 +4,7 @@ Welcome to the Task Management System repository! This project is dedicated to p
 ## 🚀 Features
 The Task Management System offers the following features:
 
-📋 Landing Page: Displaying a list of tasks for quick overview.
+📋 Landing Page: Displaying the list of tasks for quick overview.
 
 ➕ Add New Task: Users can easily add new tasks, specifying a title, description, and due date.
 
